@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://bancopan.corporate.gama.academy/">
-    <img align="center" width="300" src="https://drive.google.com/file/d/1lipsSDPnyDsqiDmuwthwpbA7g9C5P2rG/view" style="max-width:100%;">
+    <img align="center" width="300" src="image/1" style="max-width:100%;">
   </a>
 </p>
 <h1 align="center">
@@ -8,14 +8,20 @@
 </h1>
 
 <p align="center">
-  <a href="#-sobre-mim">Sobre o mim</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre-programa">SOBRE O PROGRAMA</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias que conheço e estudo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projetos">Projetos como Portifolio</a>
 </p>
 
-# Sobre mim
+# SOBRE O PROGRAMA
 
-- [Graduação em Ciência da Computação](https://repositorio.pgsskroton.com/bitstream/123456789/1081/1/artigo%2022.pdf)
+- [Serão 100 bolsas de treinamento para todo o Brasil](https://bancopan.corporate.gama.academy/)
+- [Formação para pessoas desenvolvedoras iniciantes mas que já tenham uma base de programação;](https://bancopan.corporate.gama.academy/)
+- [Treinamento 100% online, gratuito e completo – Serão cerca de 390 horas de formação](https://bancopan.corporate.gama.academy/)
+- [Aprendizado na prática, coloque a mão na massa com desafios reais e em grupo](https://bancopan.corporate.gama.academy/)
+- [Treinamentos síncronos (aulas ao vivo) e assíncronos (aulas gravadas) com profissionais de mercado, de segunda a sexta na parte da noite e aos sábados o dia todo](https://bancopan.corporate.gama.academy/)
+- [O PAN ainda oferece um Curso de Introdução ao Desenvolvimento e habilidades comportamentais para você se preparar para o processo seletivo.](https://bancopan.corporate.gama.academy/)
+
 
 ### 💻 Enterno Estudante Desenvolvedor
 
