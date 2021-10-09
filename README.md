@@ -37,6 +37,24 @@ das versões anteriores do software, podendo recuperar uma versão
 específica ou compreender quais mudanças foram feitas por outras pessoas.</p>
 </h3>
 
+<p align="center">
+  <a href="https://bancopan.corporate.gama.academy/">
+    <img align="center" width="300" src="https://github.com/WCL79/gamaPanAcademy/blob/master/image/3.png" style="max-width:100%;">
+  </a>
+</p>
+
+<h3 align="left">
+Git
+<p>Git é um sistema de controle de versões, usado
+principalmente no desenvolvimento de software.</P>
+<p>O Git é um software livre e foi inicialmente projetado e desenvolvido por
+Linus Torvalds para o desenvolvimento do kernel Linux.</p>
+<p>Desde seu nascimento em 2005, Git evoluiu e amadureceu para ser fácil
+de usar. Ele é incrivelmente rápido, é muito eficiente com projetos grandes,
+e ele tem um incrível sistema de ramos (branchs) para desenvolvimento
+não linear.</p>
+</h3>
+
 ## ⚙️ Projetos como Portifolio:
 
 - [Sistema para RH](https://sistemapararhspringboot.herokuapp.com/)
