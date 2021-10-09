@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://bancopan.corporate.gama.academy/">
-    <img align="center" width="300" src="image/1" style="max-width:100%;">
+    <img align="center" width="300" src="https://github.com/WCL79/gamaPanAcademy/blob/master/image/1.png" style="max-width:100%;">
   </a>
 </p>
 <h1 align="center">
