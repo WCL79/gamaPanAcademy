@@ -30,11 +30,11 @@
 </p>
 <h3 align="center">
 Controle de versão
-O controle de versão consiste basicamente em um sistema que permite 
-registrar alterações feitas no desenvolvimento de um software.
-É a partir dele que toda a equipe envolvida no projeto têm acesso ao histórico 
+<p>O controle de versão consiste basicamente em um sistema que permite 
+registrar alterações feitas no desenvolvimento de um software.</P>
+<p>É a partir dele que toda a equipe envolvida no projeto têm acesso ao histórico 
 das versões anteriores do software, podendo recuperar uma versão 
-específica ou compreender quais mudanças foram feitas por outras pessoas.
+específica ou compreender quais mudanças foram feitas por outras pessoas.</p>
 </h3>
 
 ## ⚙️ Projetos como Portifolio:
