@@ -55,14 +55,3 @@ e ele tem um incrível sistema de ramos (branchs) para desenvolvimento
 não linear.</p>
 </h3>
 
-## ⚙️ Projetos como Portifolio:
-
-- [Sistema para RH](https://sistemapararhspringboot.herokuapp.com/)
-- [Sistema para Gerenciamento de Oficina](https://gerenciadordeoficina.netlify.app/)
-- [Sistema para Delivery](https://wclsds2.netlify.app/)
-
-	
-## 🖥️🖱️ Visitantes
-
-<p align="center">Você é o n° abaixo como visitante, OBRIGADO!</p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/WCL79/count.svg" /></p>
