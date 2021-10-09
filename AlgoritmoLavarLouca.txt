@@ -1,0 +1,19 @@
+4. Faça um algoritmo que mostre o passo a passo para lavar um copo
+
+	Inicio
+
+	Existe louça?
+
+	Se sim,
+	
+	Então, 
+	
+	Começar separar os itens para lavar,
+	
+	Senão, 
+	
+	Volte para cama.
+	
+	FimSenão
+	
+	Fim
