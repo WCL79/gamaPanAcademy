@@ -23,7 +23,19 @@
 - [O PAN ainda oferece um Curso de Introdução ao Desenvolvimento e habilidades comportamentais para você se preparar para o processo seletivo.](https://bancopan.corporate.gama.academy/)
 
 ## 🚀 Tecnologias Git e GitHub
-
+<p align="center">
+  <a href="https://bancopan.corporate.gama.academy/">
+    <img align="center" width="300" src="https://github.com/WCL79/gamaPanAcademy/blob/master/image/2.png" style="max-width:100%;">
+  </a>
+</p>
+<h3 align="center">
+Controle de versão
+O controle de versão consiste basicamente em um sistema que permite 
+registrar alterações feitas no desenvolvimento de um software.
+É a partir dele que toda a equipe envolvida no projeto têm acesso ao histórico 
+das versões anteriores do software, podendo recuperar uma versão 
+específica ou compreender quais mudanças foram feitas por outras pessoas.
+</h3>
 
 ## ⚙️ Projetos como Portifolio:
 
