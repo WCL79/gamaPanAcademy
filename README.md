@@ -28,7 +28,7 @@
     <img align="center" width="300" src="https://github.com/WCL79/gamaPanAcademy/blob/master/image/2.png" style="max-width:100%;">
   </a>
 </p>
-<h3 align="center">
+<h3 align="left">
 Controle de versão
 <p>O controle de versão consiste basicamente em um sistema que permite 
 registrar alterações feitas no desenvolvimento de um software.</P>
