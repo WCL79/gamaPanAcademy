@@ -3,9 +3,9 @@
     <img align="center" width="300" src="https://github.com/WCL79/gamaPanAcademy/blob/master/image/1.png" style="max-width:100%;">
   </a>
 </p>
-<h1 align="center">
+<h3 align="center">
   Esse repositório é referente a aula administrada por Jenifer Plácido cuja mentoria introdutória sobre Versionamento. Portanto, usou-se a ferramente Git e o GitHub.
-</h1>
+</h3>
 
 <p align="center">
   <a href="#-sobre-programa">Sobre o Programa</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
